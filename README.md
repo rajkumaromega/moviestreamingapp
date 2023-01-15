@@ -1,4 +1,6 @@
 # Getting Started with Create React App and Redux
+![Screenshot (122)](https://user-images.githubusercontent.com/43042413/212544147-489e6672-bb4b-47d3-a60a-a2e2669d951e.png)
+![Screenshot (123)](https://user-images.githubusercontent.com/43042413/212544158-cb6990b9-9245-4d78-8dea-b28e097b6fbf.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/43042413/212543716-17018dda-7ac3-4007-a8cd-275696022c66.png)
 ![Screenshot (118)](https://user-images.githubusercontent.com/43042413/212543740-2fe9da1b-4d7c-47b4-abc0-6e298774e438.png)
 ![Screenshot (117)](https://user-images.githubusercontent.com/43042413/212543721-d6e5d209-728b-4276-b39d-11be747bd814.png)
